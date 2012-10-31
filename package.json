@@ -1,6 +1,6 @@
 {
     "name": "sassets",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "author": "Andreas Brekken <a@abrkn.com>",
     "description": "node.js module to bundle assets for websites",
     "contributors": [
