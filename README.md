@@ -13,8 +13,7 @@ installation
 usage
 =====
 
-```
-javascript
+```javascript
 app.get('/scripts.js', function(req, res, next) {
     sassets.combine([
         { path: 'vendor/jquery 1.8.2/jquery-1.8.2.js' },
