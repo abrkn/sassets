@@ -1,6 +1,6 @@
 {
     "name": "sassets",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "author": "Andreas Brekken <a@abrkn.com>",
     "description": "node.js module to bundle assets for websites",
     "main": "./lib/sassets",
@@ -14,6 +14,11 @@
         "api"
     ],
     "dependencies": {
+        "uglify-js": "1.3.4",
+        "less": "1.3.1",
+        "browserify": "1.16.3",
+        "async": "0.1.22",
+        "underscore": "1.4.2"
     },
     "license": "MIT",
     "engines": {
